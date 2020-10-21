@@ -26,4 +26,4 @@
     - *просмотры постов в сообществах Москвы имели более сильный подъем чем сообщества Петербурга*
     - *увеличения репостов различаются в меньшей степени*
     
- ## _*My jupiter notebook is [here](antoninasrap.ipynb) 
+ ## _*My jupiter notebook is [here](antoninasrap.ipynb)*_ 
